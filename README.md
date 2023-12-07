@@ -1,16 +1,17 @@
-### Hi there 👋
+# 과제를 싫어하는 개발자...
+소속 : 영남이공대학교
 
-<!--
-**sangchuv/sangchuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+학과 **소프트웨어콘텐츠학과**
 
-Here are some ideas to get you started:
+관심분야 : *프런트앤드, 백앤드, 웹사이트 제작*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**안녕하세요**
+
+###깃허브 작성방법
+1. 원격저장소 만들기
+2. 지역 저장소 연결하기
+3. 커밋하기
+4. 푸시하기
+
+[영남이공대학교].(http://www.ync.ac.kr).
